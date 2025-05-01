@@ -16,3 +16,5 @@ local Window = OrionLib:MakeWindow({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua"))()
 --> Do NOT touch this PLZ <--
 -- #######################
+--> Main Script <--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OceanCheats/Source/refs/heads/main/DahoodScriptMain/OceanHub/ThxPixelutedForBypass"))()
